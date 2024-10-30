@@ -19,7 +19,7 @@ A simple Flask web application to display current weather information for added 
 
 ### Prerequisites
 - Python 3.x
-- OpenWeatherMap API Key
+- OpenWeatherMap API Key https://openweathermap.org/api
 
 ## Setup Instructions
 
@@ -27,7 +27,7 @@ A simple Flask web application to display current weather information for added 
 
 2. **Create a virtual environment, activate it, and install dependencies.**
 
-3. **Add your OpenWeatherMap API key in `app.py`.**
+3. **Add your OpenWeatherMap API key in `app.py`.** 
 
 4. **Initialize the database.**
 
